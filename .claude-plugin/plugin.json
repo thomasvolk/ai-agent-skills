@@ -7,6 +7,7 @@
     "./skills/engineering/askme",
     "./skills/engineering/readme",
     "./skills/workflow/commit",
-    "./skills/workflow/commit-push"
+    "./skills/workflow/commit-push",
+    "./skills/workflow/create-branch"
   ]
 }

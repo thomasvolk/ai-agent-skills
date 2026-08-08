@@ -6,6 +6,7 @@ A collection of [Claude Code](https://claude.com/claude-code) skills packaged as
 - **readme** (`skills/engineering/readme`) — creates or updates a project's README.md, covering what it does, dependencies, related projects, install/usage instructions, and a link to the license. Invoke it with `/readme`.
 - **commit** (`skills/workflow/commit`) — creates a git commit for the current changes, attributed solely to the current git user with no AI co-author trailer. Invoke it with `/commit`.
 - **commit-push** (`skills/workflow/commit-push`) — runs the `commit` skill, then pushes the resulting commit(s) to the remote. Invoke it with `/commit-push`.
+- **create-branch** (`skills/workflow/create-branch`) — creates a git branch named from given text, uncommitted changes, or the user directly if neither is available. Invoke it with `/create-branch [description]`.
 
 The repository is also a Claude Code plugin marketplace (see `.claude-plugin/marketplace.json` and `.claude-plugin/plugin.json`), so it can be added straight to Claude Code without cloning it manually.
 
