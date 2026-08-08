@@ -1,0 +1,10 @@
+{
+  "name": "thomasvolk",
+  "owner": { "name": "Thomas Volk" },
+  "plugins": [
+    {
+      "name": "thomasvolk-skills",
+      "source": "./"
+    }
+  ]
+}

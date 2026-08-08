@@ -1,0 +1,9 @@
+{
+  "name": "thomasvolk-skills",
+  "description": "AI agent skills from Thomas Volk",
+  "version": "0.1.0",
+  "author": { "name": "Thomas Volk" },
+  "skills": [
+    "./skills/engineering/askme"
+  ]
+}
