@@ -3,6 +3,7 @@
 A collection of [Claude Code](https://claude.com/claude-code) skills packaged as a plugin. Skills are reusable, agent-invocable workflows — this repo currently ships:
 
 - **askme** (`skills/engineering/askme`) — interactively interrogates a statement, claim, idea, or plan via round-by-round clarifying questions until it's unambiguous, printing a confidence score after each round. Invoke it with `/askme <statement>`.
+- **readme** (`skills/engineering/readme`) — creates or updates a project's README.md, covering what it does, dependencies, related projects, install/usage instructions, and a link to the license. Invoke it with `/readme`.
 - **commit** (`skills/workflow/commit`) — creates a git commit for the current changes, attributed solely to the current git user with no AI co-author trailer. Invoke it with `/commit`.
 - **commit-push** (`skills/workflow/commit-push`) — runs the `commit` skill, then pushes the resulting commit(s) to the remote. Invoke it with `/commit-push`.
 

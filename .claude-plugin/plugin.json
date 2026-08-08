@@ -5,6 +5,7 @@
   "author": { "name": "Thomas Volk" },
   "skills": [
     "./skills/engineering/askme",
+    "./skills/engineering/readme",
     "./skills/workflow/commit",
     "./skills/workflow/commit-push"
   ]
