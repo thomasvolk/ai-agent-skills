@@ -24,7 +24,7 @@ This makes the `/askme` skill (and any skills added later) available in every se
 Install the skills directly from GitHub using the [`skills`](https://www.npmjs.com/package/skills) CLI:
 
 ```
-npx skills thomasvolk/ai-agent-skills
+npx skills add thomasvolk/ai-agent-skills
 ```
 
 ## Repository layout
