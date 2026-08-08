@@ -4,6 +4,8 @@
   "version": "0.1.0",
   "author": { "name": "Thomas Volk" },
   "skills": [
-    "./skills/engineering/askme"
+    "./skills/engineering/askme",
+    "./skills/workflow/commit",
+    "./skills/workflow/commit-push"
   ]
 }
