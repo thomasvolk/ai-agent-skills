@@ -5,7 +5,13 @@
   "author": { "name": "Thomas Volk" },
   "skills": [
     "./skills/engineering/askme",
+    "./skills/engineering/document",
+    "./skills/engineering/implement-epic",
     "./skills/engineering/readme",
+    "./skills/engineering/refine-epic",
+    "./skills/engineering/refine-spec",
+    "./skills/engineering/roadmap",
+    "./skills/engineering/verify-epic",
     "./skills/workflow/commit",
     "./skills/workflow/commit-push",
     "./skills/workflow/create-branch"
